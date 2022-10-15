@@ -1,0 +1,19 @@
+
+
+
+
+@media (max-width: 480px){
+    .logo{
+        height: 80px;
+        box-shadow: 0 2px 3px lightgray, 0 6px 6px rgba(124, 117, 117, 0.23);
+        img {
+            display: flex;
+            justify-content: center;
+            margin: auto;
+            padding: 15px 0;
+            height: 40px;
+            width: 50%;
+        }
+    }
+    
+}
